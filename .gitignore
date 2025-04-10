@@ -1,0 +1,11 @@
+data/
+node_modules/
+
+# Firebase
+service-account.json
+
+# APNS
+auth-key.p8
+
+.env*
+!.env.example
